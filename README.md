@@ -1,6 +1,6 @@
 # Project Name
 
-This project was generated with [WhateverSoftware] & link 
+This project was generated with [WhateverSoftware]((https://blabla.com) 
 
 ### Prerequisites
 
