@@ -28,7 +28,7 @@ Instructions To Install
 
 ## Build
 
-Well structured instructuions
+Well structured instructions
 ```
 Give instruction
 ```
@@ -44,7 +44,7 @@ End with demo or screenshot
 
 ## Running Tests
 
-Tests written in [WhateverTestFramework]
+Tests written in [WhateverTestFramework](https://bdabwda.com)
 
 ## Deploying 
 
@@ -62,7 +62,7 @@ Instructions & Rules
 
 ## Further Help
 
-AndroidDevs[http://whatever.com]/ng-help
+AndroidDevs[Android Developers](https://developer.android.com/)
 
 ## Author
 
@@ -71,7 +71,7 @@ AndroidDevs[http://whatever.com]/ng-help
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 > Author Name
 
-## Desription
+## Description
 
 An app that does this & that
 
@@ -86,7 +86,7 @@ This project is licensed under the MIT license.
 
 ## Acknowledgements
 
-* Hat tip to anyone who helped bring your ptoject to life
+* Hat tip to anyone who helped bring your project to life
 * Inspiration
 
  
