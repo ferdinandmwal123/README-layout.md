@@ -39,7 +39,7 @@ Another instruction
 ```
 
 End with demo or screenshot
-<img src="screenshots/image.png" width="1000">
+<img src="screenshots/images.jpeg" width="1000">
 
 
 ## Running Tests
@@ -66,8 +66,9 @@ AndroidDevs[http://whatever.com]/ng-help
 
 ## Author
 
-* **Author Name** - Author Of Project
-See also list of [contributors](https://github.com/your/project/contributors)
+* **Author Name** - *Initial work* - [ferdinandmwal](https://github.com/ferdinandmwal123)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 > Author Name
 
 ## Desription
