@@ -51,9 +51,10 @@ Tests written in [WhateverTestFramework]
 How to deploy app
 
 ## Built With
-*[SparkJava](http://sparkjava.com/) - Framework
-*[Gradle](https://gradle.org/)- Dependency Manager
-*[CircleCI](https://circleci.com/)- Continuos Integration tool (-OPTIONAL)
+
+* [SparkJava](http://sparkjava.com/) - The web framework used
+* [Gradle](https://gradle.org/) - Dependency Management
+* [CircleCi](https://circleci.com/) - Continuos integration tool
 
 ## Contributing
 
