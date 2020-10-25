@@ -62,7 +62,7 @@ Instructions & Rules
 
 ## Further Help
 
-AndroidDevs[Android Developers](https://developer.android.com/)
+[Android Developers](https://developer.android.com/)
 
 ## Author
 
